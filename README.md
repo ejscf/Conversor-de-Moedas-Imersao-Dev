@@ -6,7 +6,8 @@
 Conversor de Moedas 💵
 </h1>
 
-Conversor de moedas que converte Real 
+Conversor de moedas que converte Real em Dolar e Dolar em Real.
+
 Projeto desenvolvido no evento Imersão Dev da Alura.
 
 # O que é a Imersão Dev?
