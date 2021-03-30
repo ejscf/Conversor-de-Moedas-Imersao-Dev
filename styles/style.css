@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Mono', monospace; 
+}
+
+body {
+  background-color: #000000;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  color: white;
+}
+
+.conversores {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+button {
+  border: 1px solid transparent;
+  padding: 10px 20px 10px 20px;
+  background-color: #ebeb00;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: yellow;
+}
+
+.RD {
+  margin-right: 10px;
+}
+
+.DR {
+  margin-left: 10px;
+}
+
+.page-logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.logo {
+  width: 200px;
+}
+
+.image-coin {
+  display: flex;
+  justify-content: center;
+}
+
+.man-coin {
+  width: 700px;
+}
