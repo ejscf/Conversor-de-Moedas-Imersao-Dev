@@ -3,19 +3,19 @@
 </p>
 
 <h1 align="center">
-Conversor de Moedas 💵
+Currency Converter 💵
 </h1>
 
-Conversor de moedas que converte Real em Dolar e Dolar em Real.
+Currency converter that converts Real into Dollar and Dollar into Real.
 
-Projeto desenvolvido no evento Imersão Dev da Alura.
+Project developed at the Event Imersão Dev of Alura.
 
-# O que é a Imersão Dev?
+# What is Imersão Dev?
 
-O evento "Imersão Dev" é uma série de dez aulas focadas em JavaScript na prática, HTML e CSS, oferecidas pela plataforma online de ensino de tecnologia Alura.
+The event "Imersão Dev" is a series of ten classes focused on JavaScript in practice, HTML and CSS, offered by the online technology teaching platform Alura.
 
-# Layout do projeto
+# Project layout
 
-No projeto foi desenvolvido um layout pela Alura, mas eu decidi refaze-lo e ficou do modo como retrata a imagem abaixo.
+In the project was developed a layout by Alura, but I decided to redo it and stayed the way it portrays the image below.
 
 <img src="./assets/images/site-image.png">
